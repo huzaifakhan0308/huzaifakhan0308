@@ -13,3 +13,5 @@
 - 💞️ I’m looking to collaborate on JavaScript projects
 - 📫 You can contact me by emailing <a href="huzaifa031252khan@gmail.com">huzaifa031252khan@gmail.com</a> <br/>
 - 💡 You can check out my portfolio <a name="live-demo"></a>[Here](https://huzaifakhan0308.github.io/personal-portfolio/)
+
+---
