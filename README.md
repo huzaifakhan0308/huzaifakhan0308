@@ -1,16 +1,15 @@
-### Hi there 👋
+<a name="readme-top"></a>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/114409312/215276511-733fc856-93f1-4655-af49-49c7cbf4d2e3.jpg" width="1000"  height="300"/>
+</div>
 
-<!--
-**huzaifakhan0308/huzaifakhan0308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Huzaifa 👋
 
-Here are some ideas to get you started:
+<p>Welcome to my GitHub profile! Here, you'll find a collection of my projects and contributions to the open-source community.
+ I specialize in Web development, and I'm always looking for new and interesting challenges to tackle.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👀 I’m interested in full-stack software developer
+- 🌱 I’m currently learning frontend and backend
+- 💞️ I’m looking to collaborate on JavaScript projects
+- 📫 You can contact me by emailing <a href="huzaifa031252khan@gmail.com">huzaifa031252khan@gmail.com</a> <br/>
+- 💡 You can check out my portfolio <a name="live-demo"></a>[Here](https://huzaifakhan0308.github.io/personal-portfolio/)
