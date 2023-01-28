@@ -8,8 +8,8 @@
 <p>Welcome to my GitHub profile! Here, you'll find a collection of my projects and contributions to the open-source community.
  I specialize in Web development, and I'm always looking for new and interesting challenges to tackle.</p>
 
-- 👀 I’m interested in full-stack software developer
-- 🌱 I’m currently learning frontend and backend
+- 👀 I’m interested in Full-stack software development
+- 🌱 I’m currently learning Back-end, and Front-end
 - 💞️ I’m looking to collaborate on JavaScript projects
 - 📫 You can contact me by emailing <a href="huzaifa031252khan@gmail.com">huzaifa031252khan@gmail.com</a> <br/>
 - 💡 You can check out my portfolio <a name="live-demo"></a>[Here](https://huzaifakhan0308.github.io/personal-portfolio/)
