@@ -1,4 +1,6 @@
-# Hello there, I'm Huzaifa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<h1 align="center"> 
+   <img align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=fc9803&width=435&lines=Hi 👋, I'm huzaifa" alt="Typing text" />
+</h1>
 
 <a name="readme-top"></a>
 <div align="center">
@@ -54,13 +56,10 @@
 ## Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/huzaifakhan03/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Huzaifa khan" height="30" width="40" /></a>
-  <a href="huzaifa031252khan@gmail.com" target="blank"><img align="center"
-      src="https://user-images.githubusercontent.com/12745474/172062055-1a4f6113-015c-46f2-b585-8695bd0e234b.svg"
-      alt="Robert Loterh" width="auto" /></a>
-</p>
+<a href="https://twitter.com/huzaifakhan0308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="huzaifakhan0308" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/huzaifakhan03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huzaifakhan03" height="30" width="40" /></a>
+<a href="https://web.facebook.com/profile.php?id=100006899567552" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Nuhammad Huzaifa" height="30" width="40" /></a>
+<a href="https://www.instagram.com/huzaifakhan031252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Muhammad Huzaifa" height="30" width="40" /></a>
 
 ---
 <!-- <div align="center">
@@ -77,18 +76,6 @@
   <br>
  </p>
 
-<!--
-**rloterh/rloterh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### Hi there, I'm Huzaifa 👋
 
 <p>Welcome to my GitHub profile! Here, you'll find a collection of my projects and contributions to the open-source community.
