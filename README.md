@@ -1,18 +1,33 @@
 <h1 align="center"> 
-   <img align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=fc9803&width=435&lines=Hi 👋, I'm huzaifa" alt="Typing text" />
+   <img align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&center=true&pause=1000&color=blue&width=435&lines=Hi 👋, I'm huzaifa" alt="Typing text" />
 </h1>
 
+
 <a name="readme-top"></a>
-<div align="center">
+<!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/114409312/215276511-733fc856-93f1-4655-af49-49c7cbf4d2e3.jpg" width="1000"  height="300"/>
-</div>
+</div> -->
 
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=;Software+Engineer;Full+Stack+Developer;With+Passion%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
+</p> -->
 
 <p><img align="right" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+<p>Welcome to my GitHub profile! Here, you'll find a collection of my projects and contributions to the open-source community.
+ I specialize in Web development, and I'm always looking for new and interesting challenges to tackle.</p>
+
+- 🌍 I'm based in Peshawar, Pakistan
+- 👀 I’m interested in Full-stack software development
+- 👨‍🚀 I'm currently learning full-stack development at [Microverse](https://github.com/microverseinc).
+- 🧩 I love solving puzzles and working with algorithms.
+- 📫 Feel free to reach out to me at: huzaifa0308khan@gmail.com
+- 💡 You can check out my portfolio <a name="live-demo"></a>[Here](https://huzaifakhan0308.github.io/personal-portfolio/)
+
+<a href="https://github.com/huzaifakhan0308" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/huzaifakhan0308?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<br/>
 
 ## My tech stack
 
@@ -66,7 +81,7 @@
   <a href="https://github.com/rloterh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rloterh&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rloterh&layout=compact&langs_count=7&theme=gradient"/>
-</div> -->
+</div>
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=rloterh&show_icons=true&count_private=true&theme=gradient&include_all_commits=true&count_private=true&hide_border=true,contribs&bg_color=00000000">
@@ -74,17 +89,4 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=rloterh&theme=tokyonight&hide_border=true&background=FFFFFF00">
   <br>
   <br>
- </p>
-
-### Hi there, I'm Huzaifa 👋
-
-<p>Welcome to my GitHub profile! Here, you'll find a collection of my projects and contributions to the open-source community.
- I specialize in Web development, and I'm always looking for new and interesting challenges to tackle.</p>
-
-- 👀 I’m interested in Full-stack software development
-- 🌱 I’m currently learning Back-end, and Front-end
-- 💞️ I’m looking to collaborate on JavaScript projects
-- 📫 You can contact me by emailing <a href="huzaifa031252khan@gmail.com">huzaifa031252khan@gmail.com</a> <br/>
-- 💡 You can check out my portfolio <a name="live-demo"></a>[Here](https://huzaifakhan0308.github.io/personal-portfolio/)
-
----
+ </p> -->
