@@ -15,9 +15,8 @@
 - 📫 Feel free to reach out to me at: huzaifa0308khan@gmail.com
 - 💡 You can check out my portfolio <a name="live-demo"></a>[Here](https://huzaifakhan0308.github.io/personal-portfolio/)
 
-<a href="https://github.com/huzaifakhan0308" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/huzaifakhan0308?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <br/>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=huzaifakhan0308&label=Profile%20views&color=0e75b6&style=flat" alt="huzaifa-khan" /></p>
 
 ## My tech stack
 
