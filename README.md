@@ -9,8 +9,7 @@
 <p><img align="right" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 - 🌍 I'm based in Peshawar, Pakistan
-- 👀 I’m interested in Full-stack software development
-- 👨‍🚀 I'm currently learning full-stack development at [Microverse](https://github.com/microverseinc).
+- 💬 Ask me about Web Development
 - 🧩 I love solving puzzles and working with algorithms.
 - 📫 Feel free to reach out to me at: huzaifa0308khan@gmail.com
 - 💡 You can check out my portfolio <a name="live-demo"></a>[Here](https://huzaifakhan0308.github.io/personal-portfolio/)
