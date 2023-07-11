@@ -12,7 +12,7 @@
 - 💬 Ask me about Web Development
 - 🧩 I love solving puzzles and working with algorithms.
 - 📫 Feel free to reach out to me at: huzaifa031252khan@gmail.com
-- 💡 You can check out my portfolio <a name="live-demo"></a>[Here](https://huzaifakhan0308.github.io/personal-portfolio/)
+- 💡 You can check out my portfolio <a name="live-demo"></a>[Here](https://huzaifa-portfolio.onrender.com)
 
 <br/>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=huzaifakhan0308&label=Profile%20views&color=0e75b6&style=flat" alt="huzaifa-khan" /></p>
