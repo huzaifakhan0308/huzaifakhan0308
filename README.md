@@ -11,7 +11,7 @@
 - 🌍 I'm based in Peshawar, Pakistan
 - 💬 Ask me about Web Development
 - 🧩 I love solving puzzles and working with algorithms.
-- 📫 Feel free to reach out to me at: huzaifa031252khan@gmai
+- 📫 Feel free to reach out to me at: huzaifa031252khan@gmail.com
 - 💡 You can check out my portfolio <a name="live-demo"></a>[Here](https://huzaifa-portfolio.onrender.com)
 
 <br/>
