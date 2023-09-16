@@ -9,7 +9,7 @@
 <p><img align="right" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 - 🌍 I'm based in Peshawar, Pakistan
-- 💬 Ask  about Web Development
+- 💬 Ask me about Web Development
 - 🧩 I love solving puzzles and working with algorithms.
 - 📫 Feel free to reach out to me at: huzaifa031252khan@gmail.com
 - 💡 You can check out my portfolio <a name="live-demo"></a>[Here](https://huzaifa-portfolio.onrender.com)
