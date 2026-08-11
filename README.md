@@ -51,7 +51,3 @@
 <p/>
 
 ---
-
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=huzaifakhan0308&show_icons=true&count_private=true&theme=gradient&include_all_commits=true&count_private=true&hide_border=true,contribs&bg_color=00000000">
-</p>
